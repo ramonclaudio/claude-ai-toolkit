@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-    <a href=".github/version.json" title="Go to changelog">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Claude+AI+Toolkit&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRamon Claudio%2Fclaude-ai-toolkit%2Fmain%2F.github%2Fversion.json" alt="Version">
     </a>
 </p>
 
@@ -18,9 +16,9 @@
 <p align="center">
     <a href="/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/claude-ai-toolkit/main/.github/anthropic-logo-dark.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/claude-ai-toolkit/main/.github/anthropic-logo-light.png">
-          <img alt="Claude AI" width="500" src="https://raw.githubusercontent.com/ramonclaudio/claude-ai-toolkit/main/.github/anthropic-logo-light.png">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/claude-ai-toolkit/main/.github/assets/anthropic-logo-dark.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/claude-ai-toolkit/main/.github/assets/anthropic-logo-light.png">
+          <img alt="Claude AI" width="500" src="https://raw.githubusercontent.com/ramonclaudio/claude-ai-toolkit/main/.github/assets/anthropic-logo-light.png">
         </picture>
     </a>
 </p>
