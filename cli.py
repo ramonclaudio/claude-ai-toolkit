@@ -10,7 +10,7 @@ def main():
     ------------------------------------------------------------------
                             Claude AI Toolkit                          
                    API Wrapper & Command-line Interface               
-                          [v1.0.2] by @rmncldyo                      
+                          [v1.0.2] by @ramonclaudio                      
     ------------------------------------------------------------------
 
     Claude AI toolit is an API wrapper and command-line interface for Anthropic's latest Claude 3.5 large-language models.
@@ -33,7 +33,7 @@ def main():
     | Stop sequences for completion 	| `-ss`, `--stop_sequences` 	| --stop_sequences ["\n", "."]                          	|
     """,
         formatter_class=CustomFormatter,
-        epilog="For detailed usage information, visit our ReadMe here: github.com/RMNCLDYO/claude-ai-toolkit"
+        epilog="For detailed usage information, visit our ReadMe here: github.com/ramonclaudio/claude-ai-toolkit"
     )
     parser.add_argument('-c', '--chat', action='store_true', help='Enable chat mode')
     parser.add_argument('-t', '--text', action='store_true', help='Enable text mode')

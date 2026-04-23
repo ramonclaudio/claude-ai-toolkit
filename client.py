@@ -6,7 +6,7 @@ from loading import Loading
 print("------------------------------------------------------------------\n")
 print("                         Claude AI Toolkit                        \n")     
 print("               API Wrapper & Command-line Interface               \n")   
-print("                       [v1.0.2] by @rmncldyo                      \n")  
+print("                       [v1.0.2] by @ramonclaudio                      \n")  
 print("------------------------------------------------------------------\n")
 
 class Client:

@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href=".github/version.json" title="Go to changelog">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Claude+AI+Toolkit&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRMNCLDYO%2Fclaude-ai-toolkit%2Fmain%2F.github%2Fversion.json" alt="Version">
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Claude+AI+Toolkit&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRamon Claudio%2Fclaude-ai-toolkit%2Fmain%2F.github%2Fversion.json" alt="Version">
     </a>
 </p>
 
@@ -18,9 +18,9 @@
 <p align="center">
     <a href="/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RMNCLDYO/claude-ai-toolkit/main/.github/anthropic-logo-dark.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RMNCLDYO/claude-ai-toolkit/main/.github/anthropic-logo-light.png">
-          <img alt="Claude AI" width="500" src="https://raw.githubusercontent.com/RMNCLDYO/claude-ai-toolkit/main/.github/anthropic-logo-light.png">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/claude-ai-toolkit/main/.github/anthropic-logo-dark.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/claude-ai-toolkit/main/.github/anthropic-logo-light.png">
+          <img alt="Claude AI" width="500" src="https://raw.githubusercontent.com/ramonclaudio/claude-ai-toolkit/main/.github/anthropic-logo-light.png">
         </picture>
     </a>
 </p>
@@ -55,7 +55,7 @@ To use the Claude AI Toolkit, clone the repository to your local machine and ins
 
 Clone the repository:
 ```bash
-git clone https://github.com/RMNCLDYO/claude-ai-toolkit.git
+git clone https://github.com/ramonclaudio/claude-ai-toolkit.git
 ```
 
 Navigate to the repositories folder:
@@ -212,7 +212,7 @@ Encountered a bug? We'd love to hear about it. Please follow these steps to repo
 
 1. Check if the issue has already been reported.
 2. Use the [Bug Report](.github/ISSUE_TEMPLATE/bug_report.md) template to create a detailed report.
-3. Submit the report [here](https://github.com/RMNCLDYO/claude-ai-toolkit/issues).
+3. Submit the report [here](https://github.com/ramonclaudio/claude-ai-toolkit/issues).
 
 Your report will help us make the project better for everyone.
 
@@ -221,7 +221,7 @@ Got an idea for a new feature? Feel free to suggest it. Here's how:
 
 1. Check if the feature has already been suggested or implemented.
 2. Use the [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md) template to create a detailed request.
-3. Submit the request [here](https://github.com/RMNCLDYO/claude-ai-toolkit/issues).
+3. Submit the request [here](https://github.com/ramonclaudio/claude-ai-toolkit/issues).
 
 Your suggestions for improvements are always welcome.
 
